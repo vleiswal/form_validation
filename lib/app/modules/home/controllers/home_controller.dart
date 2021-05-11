@@ -8,7 +8,7 @@ class HomeController extends GetxController {
   var email = '';
   var password = '';
 
-  final count = 0.obs;
+  //final count = 0.obs;
   @override
   void onInit() {
     super.onInit();
